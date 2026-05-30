@@ -1,1 +1,1 @@
-Hello from local repo2
+This is Homework 5 from GitHub and local repo2.
